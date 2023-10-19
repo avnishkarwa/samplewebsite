@@ -1,0 +1,88 @@
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+
+nav {
+    background-color: #333;
+    color: #fff;
+}
+
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+
+#content {
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+
+/* this are the various template we cn use according to our requirements
+
+.page-home {
+    /* Styles for the home page */
+}
+
+.page-services {
+    /* Styles for the services page */
+}
+
+.page-portfolio {
+    /* Styles for the portfolio page */
+}
+
+.page-about-us {
+    /* Styles for the about us page */
+}
+
+.page-blog {
+    /* Styles for the blog page */
+}
+
+.page-contact-us {
+    /* Styles for the contact us page */
+} */
+
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.contact-form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.contact-form input[type="submit"]:hover {
+    background-color: #555;
+}
